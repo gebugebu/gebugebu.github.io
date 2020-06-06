@@ -3,4 +3,4 @@ theme: jekyll-theme-midnight
 
 lang: ja-JP
 
-title: げぶげぶのページ
+title: げぶのページ
